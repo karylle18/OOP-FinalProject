@@ -10,7 +10,7 @@ After finalizing the project concept, datahabit, our group focused on assigning 
 
 The use of GitHub for project collaboration and version control was required by the instructor, allowing transparent tracking of each member’s commits and contributions. In addition, our group utilized a Messenger group chat for coordination, progress updates, and quick communication during the planning stage.
 
-Our project lead, **Dahe, Aira Grettel C.**, managed the GitHub repository setup, established the initial project folder structure, and oversaw documentation and testing plans.
+Our project lead, **Dahe, Aira Grettel C.**, managed the GitHub repository setup, established the initial project folder structure, and oversaw documentation and testing plans. 
 **Dellosa, Karylle L.** served as the concept proposer and main coder, responsible for designing the core analysis logic of the library, including how the system detects and labels behavioral patterns.
 **Hayag, Carmel Mariane T.** handled documentation, particularly drafting the README file and assisting in writing the narrative reports to document the group’s progress and decisions.
 **Java, Armisty Genia L.** worked on visualization planning, preparing how the habit data would be presented through graphs and charts for clearer interpretation.
